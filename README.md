@@ -14,7 +14,7 @@ A simple n8n workflow that scans your Gmail sent folder every Monday and reminds
 
 ## Requirements
 
-- n8n (Cloud or self-hosted)
+- n8n 
 - Gmail account connected via OAuth2
 
 ## Setup
