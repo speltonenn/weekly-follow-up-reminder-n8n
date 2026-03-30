@@ -1,8 +1,8 @@
 # weekly-follow-up-reminder-n8n
 Finds unanswered sent emails and delivers a single follow-up reminder every Monday.
-# Weekly Follow-Up Reminder — Unanswered Emails
+# Weekly Email Follow-Up Reminder
 
-A simple n8n workflow that scans your Gmail sent folder every Monday and reminds you which emails are still waiting for a reply.
+A simple workflow that scans your Gmail sent folder every Monday and reminds you which emails are still waiting for a reply.
 
 ## How it works
 
